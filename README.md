@@ -32,7 +32,7 @@ GreenMart is a sleek e-commerce app for buying groceries online. Built using **R
 
 | Category     | Tools/Tech                             |
 |--------------|----------------------------------------|
-| **Frontend** | ReactJS, HTML5, Tailwind               |
+| **Frontend** | ReactJS, HTML5, TailwindCSS            |
 | **Backend**  | Nodejs                                 |
 | **Database** | MYsql                                  |
 | **Routing**  | React Router DOM                       |
