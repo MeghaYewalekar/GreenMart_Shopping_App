@@ -1,4 +1,8 @@
-<h1 align="center"> GreenMart</h1>
+<p align="center">
+  <img src="./titleLogo.png" alt="GreenMart Logo" width="120"/>
+</p>
+
+<h1 align="center">GreenMart</h1>
 <p align="center">
   <b>A modern React-based grocery shopping web app built with Firebase</b><br/>
   Smooth. Secure. Supermarket in your pocket.
@@ -39,9 +43,15 @@ GreenMart is a sleek e-commerce app for buying groceries online. Built using **R
 ## 📸 Screenshots
 
 
-|![Home](./Home%20Page.png) | ![Product](./Product%20Page.png) | ![Cart](./Cart%20Page.png) |
+### 🏠 Home Page  
+![Home](./Home%20Page.png)
 
-> Add your actual screenshot files in a `/screenshots` folder.
+### 🛍️ Product Page  
+![Product](./Product%20Page.png)
+
+### 🛒 Cart Page  
+![Cart](./Cart%20Page.png)
+
 
 ---
 
